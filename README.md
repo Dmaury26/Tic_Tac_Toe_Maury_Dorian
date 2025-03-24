@@ -7,7 +7,8 @@
 
 <h2>Pour l'ordinateur :</h2>
 
-Implémentation d'une fonction qui va toujours calculer le meilleur coup possible sans laisser une chance de le battre (Fonction trouvé sur Internet) 
+Implémentation d'une fonction qui va toujours calculer le meilleur coup possible sans laisser une chance de le battre 
+(Fonction trouvé sur Internet) 
 
 
 <h2>Pour jouer :</h2>
