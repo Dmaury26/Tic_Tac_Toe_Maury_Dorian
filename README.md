@@ -1,6 +1,6 @@
 <h1>Jeu de Tic Tac Toe programmé en C sous CLion avec l'utilisation d'une interface graphique "ncurses"</h1>
 
-Possibilité de jeu : 
+<h2>Possibilité de jeu :</h2>
 
 1. joueur contre joueur
 2. joueur contre ordinateur (imbattable) 
@@ -8,7 +8,7 @@ Possibilité de jeu :
 Pour l'ordinateur : implémentation d'une fonction qui va toujours calculer le meilleur coup possible sans laisser une chance de le battre (Fonction trouvé sur Internet) 
 
 
-Pour jouer : 
+<h2>Pour jouer :</h2>
 
 Pour sélectionner une option appuyer sur "ENTRER" 
 
@@ -16,6 +16,6 @@ Pour effacer votre sélection rester appuyer sur "BACKSPACE" (cela n'effacera pa
 ensuite rentrer une nouvelle valeur (vous devriez voir la sélection précédente se modifier en tapant votre nouvelle valeur)
 
 Attention le format pour pouvoir jouer son coup est "n" "n" avec un espace (et pas d'autre touches) entre les nombres
-             
+        
 
-Bonnes Parties ! 
+<h3>Bonnes Parties !</h3>
