@@ -1,4 +1,4 @@
-Jeu de Tic Tac Toe programmé en C sous CLion avec l'utilisation d'une interface graphique "ncurses" 
+<h1>Jeu de Tic Tac Toe programmé en C sous CLion avec l'utilisation d'une interface graphique "ncurses"</h1>
 
 Possibilité de jeu : 
 
